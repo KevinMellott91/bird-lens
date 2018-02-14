@@ -10,4 +10,4 @@ customizations to the code.
 ### Examples
 me: *Alexa, ask bird lens if any birds stopped by*<br />
 Alexa: *Check out this one.*<br />
-TODO - image
+![Alexa App](../pictures/alexa-app.png "Alexa App")
